@@ -1,0 +1,5 @@
+To Do √ = Done, ... = Working on
+--------------------------------
+- Add War/Raiding Functionality
+- Add Grace Time Functionality
+- Migrate from database to purely YAML √

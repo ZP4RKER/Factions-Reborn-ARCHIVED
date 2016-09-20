@@ -1,0 +1,10 @@
+name: FactionsReborn
+version: 1.0
+description: The new Factions plugin!
+author: ZP4RKER
+main: com.zp4rker.freborn.FactionsReborn
+commands:
+    factions:
+        usage: §2/factions <FUNCTION> [ARGUMENTS]
+        aliases: [f, ft, f2]
+        description: Base command
